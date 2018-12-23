@@ -1,0 +1,12 @@
+.content-listing {
+    border-top: 1px solid #f0f0f0;
+    padding: 1.5em 0;
+    overflow: hidden;
+}
+.PageTitle {
+    margin-top: 60px;
+}
+
+.imgdetail {
+    display: inline;
+}

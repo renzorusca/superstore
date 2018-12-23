@@ -1,0 +1,16 @@
+.contactdata > p > img {
+    width: 40%;
+    height: 40%;}
+    
+.btn-primary{margin-left: 60px ;margin-bottom: 60px}
+
+
+
+.container4 { 
+    margin-top:55px
+}
+
+.contact-footer {
+    display: flex;
+    margin-left: auto;
+}

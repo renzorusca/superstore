@@ -1,0 +1,29 @@
+.titulo {
+    margin-top: 80px;
+}
+
+
+.cardproducts {
+  margin-top: 20px;
+  margin-bottom: 20px;
+  background: #eee;
+  padding: 3em;
+  line-height: 1.5em; 
+    
+}
+  
+.moreinfo {
+    float: right;
+    color: white;
+    background-color: blue;
+    
+}
+  
+.buynow {
+    color: white;
+    background-color: blue;
+    
+ }
+ 
+ 
+  
